@@ -1,0 +1,14 @@
+openai-whisper
+yt-dlp
+ipykernel
+langchain
+langchain_groq
+langchain_community
+langchain_chroma
+langchain_huggingface
+dotenv
+streamlit
+transformers
+torch
+torchvision
+deepgram-sdk
